@@ -19,3 +19,8 @@ body {
   
   /* Applies to the element with <... id="someid"> specified. */
   #someid { color: green; }
+
+
+  .custom-color {
+    color: red !important;
+}
